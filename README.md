@@ -37,7 +37,7 @@ Memory: | Free (170 KB) | ... | P9 [6s] (98 KB) |
 Stats -- Holes: 3, Avg Hole Size: 63.7, Total Free: 191 KB (18.65%)
 
 ---
-##How to Run
+## How to Run
 
 1. Make sure Java (JDK 11 or higher) is installed
 2. Clone the repo:
