@@ -35,6 +35,7 @@ Stats -- Holes: 1, Avg Hole Size: 1.0, Total Free: 1 KB (0.10%)
 Process P1 and P8 finished.
 Memory: | Free (170 KB) | ... | P9 [6s] (98 KB) |
 Stats -- Holes: 3, Avg Hole Size: 63.7, Total Free: 191 KB (18.65%)
+
 ---
 ##How to Run
 
